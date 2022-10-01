@@ -6,13 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="godk-dynamicloader" />
         <module name="godk-ohcache" />
-        <module name="godk-dynamic-loader" />
         <module name="godk-ohc" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="godk-dynamicloader" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
