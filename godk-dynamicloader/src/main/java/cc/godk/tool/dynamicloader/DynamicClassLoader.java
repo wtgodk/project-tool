@@ -6,8 +6,8 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 
 /**
- * @author weitao47
- * @project xxl-job
+ * @author godk
+ * @project project-tool
  * @date 2022/9/19 10:43
  */
 public class DynamicClassLoader {

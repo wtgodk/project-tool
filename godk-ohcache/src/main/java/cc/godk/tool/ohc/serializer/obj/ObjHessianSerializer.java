@@ -12,7 +12,7 @@ import java.nio.ByteBuffer;
 /**
  * 序列化 反序列化工具
  *
- * @author weitao47
+ * @author godk
  * @project project-tool
  * @date 2022/9/21 14:22
  */
